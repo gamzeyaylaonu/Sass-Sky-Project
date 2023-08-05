@@ -4,7 +4,7 @@ Sass projesidir, buton renkleri ve animasyon geçişleri sunan tasarımdır.
 
 <h2> Kullanılan Teknolojiler </h2>
 
-Sass,CSS,HTML
+SCSS,CSS,HTML
 
 <h3> Ekran Görüntüsü </h3>
 
